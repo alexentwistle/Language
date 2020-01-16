@@ -1,3 +1,6 @@
+# Using the Google Cloud Natural Language API for SEO 
+## Credit: Benjamin Burkholder https://medium.com/@benjburkholder/go
+
 - Sentiment Analysis
 - Content Classification - Text to test needs to be at LEAST 20 words long. Anything shorter and the program will throw an error.
 - Entities Analysis
